@@ -10,7 +10,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 
 import 'settings_screen.dart';
 import 'settings_provider.dart';
-import 'notifications.dart';q
+import 'notifications.dart';
 import 'scanner_function.dart';
 import 'firebase_options.dart';
 import 'foodinfo_manuel.dart';
