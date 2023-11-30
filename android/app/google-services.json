@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "496878803702",
+    "firebase_url": "https://freshtrack-8064a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "freshtrack-8064a",
+    "storage_bucket": "freshtrack-8064a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496878803702:android:2f74b004637d35b390ead7",
+        "android_client_info": {
+          "package_name": "com.example.fresh_track_3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBysUcUjZqkbCgbch6_eZA1ofg2HsMys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:496878803702:android:640b12da22481e3690ead7",
+        "android_client_info": {
+          "package_name": "com.example.test_firestore_database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhBysUcUjZqkbCgbch6_eZA1ofg2HsMys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
