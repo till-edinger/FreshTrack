@@ -94,7 +94,7 @@ final RequestPermission requestPermission = RequestPermission();
   tz.TZDateTime _notificationTime() {
     final tz.TZDateTime now = tz.TZDateTime.now(tz.local);
     tz.TZDateTime scheduledDate =
-    tz.TZDateTime(tz.local, now.year, now.month, now.day, 17, 30);
+    tz.TZDateTime(tz.local, now.year, now.month, now.day, 9);
     if (scheduledDate.isBefore(now)) {
       scheduledDate = scheduledDate.add(const Duration(days: 1));
     }
